@@ -5,7 +5,7 @@ This project implements both Modbus TCP Server and Client using an ESP8266 and W
 The ESP8266 communicates over Ethernet using the Modbus protocol
 
 Hardware Components:
-ESP8266 (NodeMCU)
+ESP8266 (NodeMCU),
 W5500 Ethernet Module
 
 SS pin = 4;
