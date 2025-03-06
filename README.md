@@ -9,3 +9,5 @@ ESP8266 (NodeMCU),
 W5500 Ethernet Module
 
 SS pin = 4;
+
+Setup image link: https://github.com/AR5319/Modbus_ESP8266/blob/main/Modbus.jpg
